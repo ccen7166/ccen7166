@@ -15,6 +15,9 @@ My ultimate goal is to gain experience in cybersecurity and eventually transitio
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Securing Cloud Applications                   | <a href="https://github.com/ccen7166/Securing-Cloud-Applications/blob/main/README.md">Securing Cloud Applications</a>|
+| Custom Splunk Dashboard                       | <a href="https://github.com/ccen7166/Custom-Splunk-Dashboard/blob/main/README.md">Custom Splunk Dashboard</a>|
+| Bootcamp SIEM Project                         | <a href="https://github.com/ccen7166/Bootcamp-SIEM-Project/blob/main/README.md">Bootcamp SIEM project</a>|
+
 
 
 ## Tools
@@ -38,11 +41,12 @@ My ultimate goal is to gain experience in cybersecurity and eventually transitio
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
 </div>
 
 ## Projects
-- <a href="https://github.com/ccen7166/Securing-Cloud-Applications/blob/main/README.md">Securing Cloud Applications</a> 
+- <a href="https://github.com/ccen7166/Securing-Cloud-Applications/blob/main/README.md">Securing Cloud Applications</a>
+- <a href="https://github.com/ccen7166/Custom-Splunk-Dashboard/blob/main/README.md">Custom Splunk Dashboard</a>
+- <a href="https://github.com/ccen7166/Bootcamp-SIEM-Project/blob/main/README.md">Bootcamp SIEM project</a>
