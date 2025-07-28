@@ -20,8 +20,6 @@ My ultimate goal is to gain experience in cybersecurity and eventually transitio
 | Active Directory SIEM Brute Force Lab         | <a href="https://github.com/ccen7166/Active-Directory-SIEM-Brute-Force-Lab">Active Directory SIEM Brute Force Lab</a>|
 
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
