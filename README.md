@@ -17,7 +17,7 @@ My ultimate goal is to gain experience in cybersecurity and eventually transitio
 | Securing Cloud Applications                   | <a href="https://github.com/ccen7166/Securing-Cloud-Applications/blob/main/README.md">Securing Cloud Applications</a>|
 | Custom Splunk Dashboard                       | <a href="https://github.com/ccen7166/Custom-Splunk-Dashboard/blob/main/README.md">Custom Splunk Dashboard</a>|
 | Bootcamp SIEM Project                         | <a href="https://github.com/ccen7166/Bootcamp-SIEM-Project/blob/main/README.md">Bootcamp SIEM project</a>|
-
+| Active Directory SIEM Brute Force Lab         | <a href="https://github.com/ccen7166/Active-Directory-SIEM-Brute-Force-Lab">Active Directory SIEM Brute Force Lab</a>|
 
 
 ## Tools
@@ -50,3 +50,4 @@ My ultimate goal is to gain experience in cybersecurity and eventually transitio
 - <a href="https://github.com/ccen7166/Securing-Cloud-Applications/blob/main/README.md">Securing Cloud Applications</a>
 - <a href="https://github.com/ccen7166/Custom-Splunk-Dashboard/blob/main/README.md">Custom Splunk Dashboard</a>
 - <a href="https://github.com/ccen7166/Bootcamp-SIEM-Project/blob/main/README.md">Bootcamp SIEM project</a>
+- <a href="https://github.com/ccen7166/Active-Directory-SIEM-Brute-Force-Lab">Active Directory SIEM Brute Force Lab</a>
